@@ -90,5 +90,5 @@ This will initialize the network, perform the QKD simulation, and open the Minin
 
 ## Do follow for more and Refer 
 For projects : [Github](https://github.com/sarah131/)
-For updates : [LinkedIn]((https://www.linkedin.com/in/sarah-rachel-65532720b)/)
+For updates : [LinkedIn]([https://www.linkedin.com/in/sarah-rachel-65532720b](https://www.linkedin.com/in/sarah-rachel-65532720b))
 For coding skills & Problem solving : [Youtube](https://youtube.com/@theengineeringcodex?si=5o6xpI8eqK7-2fQf)
