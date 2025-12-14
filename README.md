@@ -88,6 +88,17 @@ sudo python3 qkd_simulation.py
 ```
 This will initialize the network, perform the QKD simulation, and open the Mininet CLI for additional commands or inspection.
 
+---
+
+## 📌 Article Reference
+
+For a detailed explanation and practical insights on **Quantum Key Distribution (QKD)** and its **simulation using Mininet**, refer to the following LinkedIn article:
+
+🔗 **Quantum Key Distribution (QKD) Simulation Using Mininet**  
+https://www.linkedin.com/posts/sarah-rachel-65532720b_quantumcomputing-quantumsecurity-qkd-activity-7405932658901499904-lCFJ
+
+---
+
 ## Do follow for more and Refer 
 For projects : [Github](https://github.com/sarah131/)
 
